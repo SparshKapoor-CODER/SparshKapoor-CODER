@@ -72,7 +72,7 @@ Comfortable translating problem statements into data-driven solutions, building 
 
 ### **Smart India Hackathon (SIH) 2025 — Team Leader**
 - Selected from **997 institute teams**
-- Shortlisted to **Top 45 teams nationally**
+- Shortlisted to **Top 45 teams in the institute**
 - Led multidisciplinary team through ideation, faculty interviews, and prototype development
 - Demonstrated leadership, planning, and execution under tight timelines
 
@@ -99,7 +99,7 @@ VIT Bhopal University *(2024 – 2028)*
 
 - **LinkedIn:** https://www.linkedin.com/in/sparsh-kapoor-sk  
 - **Email:** sparsh312333@gmail.com  
-- **LeetCode:** https://leetcode.com/sparsh312333/
+- **LeetCode:** https://leetcode.com/sparsh4306/
 
 ---
 
