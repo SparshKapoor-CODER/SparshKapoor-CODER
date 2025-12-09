@@ -1,119 +1,106 @@
-# 👋 Hi, I'm Sparsh Kapoor
+# Sparsh Kapoor
+![Profile Views](https://komarev.com/ghpvc/?username=SparshKapoor-CODER&style=flat-square)
 
-🎓 **B.Tech CSE (AI & ML)** @ VIT Bhopal University  
-💡 AI | Machine Learning | Data Analysis | Full-Stack Development  
-📍 India
-
----
-
-## 🚀 About Me
-
-I’m a results-driven Computer Science student specializing in **Artificial Intelligence and Machine Learning**, with strong foundations in **data analysis, algorithms, and system design**.
-
-I enjoy working across the **entire data pipeline** — from data cleaning and visualization to building, training, and deploying machine learning models. I balance **theory + practice**, with 600+ LeetCode problems solved and hands-on experience in **Python, PyTorch, Flask, and full-stack development**.
-
-I believe good tech should be:
-- ✅ Data-driven  
-- ✅ Scalable  
-- ✅ Actually useful in the real world  
+**AI & Machine Learning Undergraduate | Strong in DSA | Applied ML & Data Systems Builder**
 
 ---
 
-## 🧠 Technical Skills
+## Professional Summary
 
-### 💻 Programming
-- C / C++
-- Python
-- Java
-- JavaScript
-- SQL
+Computer Science undergraduate specializing in **Artificial Intelligence and Machine Learning** with hands-on experience in **end-to-end machine learning pipelines**, data analysis, and backend development. Strong problem-solving skills demonstrated through **600+ solved LeetCode problems** and practical project work using **PyTorch, Flask, and SQL**.
 
-### 🤖 AI / ML / Data
-- Machine Learning & Deep Learning (PyTorch)
+Comfortable translating problem statements into data-driven solutions, building scalable ML systems, and writing clean, maintainable code.
+
+---
+
+## Technical Skills
+
+### Programming Languages
+- **Python**, **Java**, **C / C++**, **JavaScript**, **SQL**
+
+### AI / ML / Data
+- Machine Learning, Deep Learning (**PyTorch**)
 - Data Analysis & Visualization
+- Model Training, Evaluation, and Deployment
 - Data Structures & Algorithms
-- Model Training, Evaluation & Deployment
 
-### 🛠️ Tools & Platforms
+### Tools & Frameworks
 - NumPy, Pandas, Matplotlib, Seaborn
-- Tableau, Power BI, Excel
+- Flask (Backend Development)
 - Git, GitHub
-- SQL Databases
-
-### 🌐 Development
-- Backend Web Development (Flask)
-- REST APIs, Routing, Templates
-- Database Integration (CRUD)
+- Tableau, Power BI, Excel
 
 ---
 
-## 📌 Featured Project
+## Selected Projects
 
-### 🐄 **PashuScan — AI-Powered Automated Body Condition Scoring**
-🔗 *GitHub Repository available*
+### **PashuScan — Automated Body Condition Scoring System**
+**Tech:** PyTorch, Flask, Computer Vision  
+**Domain:** Applied AI in Agriculture
 
-An AI-driven system that automates **livestock physical trait evaluation** using cattle images.
-
-**Key Highlights:**
-- ✅ Automated Body Condition Scoring using deep learning  
-- ✅ ~95% scoring accuracy  
-- ✅ Reduced evaluation time from **30 minutes to seconds**  
-- ✅ Built using **PyTorch + Flask**  
-- ✅ Scalable, modular, and low-cost deployment  
-
-**Impact:**  
-Supports breeding, insurance, and trade decisions while enabling **5–10% potential economic gains** for farmers. Designed to align with national livestock development initiatives.
+- Designed and implemented an **AI-powered livestock evaluation system** using deep learning
+- Achieved **~95% scoring accuracy** on cattle body condition assessment
+- Reduced evaluation time from **~30 minutes to seconds**
+- Built a **scalable, modular backend architecture** suitable for low-cost deployment
+- Application supports **breeding, insurance, and livestock trade decision-making**
 
 ---
 
-## 🏆 Achievements
+## Competitive Programming & Problem Solving
 
-### 🥇 **Smart India Hackathon (SIH) 2025 — Team Leader**
-- Represented **VIT Bhopal University**
-- Selected from **997 institute teams**
-- Shortlisted to **Top 75** → **Top 45 National Level**
-- Led multidisciplinary team through ideation, interviews, and prototype development
-- Focused on leadership, execution under pressure, and technical innovation
+### 🧩 LeetCode Statistics
+<img src="https://leetcard.jacoblin.cool/sparsh4306?theme=dark&font=Baloo%202&ext=heatmap" />
+
+- **600+ problems solved**
+- Strong grasp of **DSA, recursion, arrays, strings, trees, graphs, and DP**
+- Consistent practice with focus on optimal time & space complexity
 
 ---
 
-## 💼 Experience
+## Experience
 
 **Technical Team Member**  
-**Metaversity – Metaverse Club, VIT Bhopal**  
-📅 *Jan 2025 – Present*
+**Metaversity – Metaverse Club, VIT Bhopal University**  
+*Jan 2025 – Present*
 
-- Defined ML-based problem statements for **CodeVerse 2025 Hackathon**
-- Collaborated on technical ideation and evaluation frameworks
-
----
-
-## 📚 Education
-
-- **B.Tech in Computer Science & Engineering (AI/ML)**  
-  VIT Bhopal University (2024–2028)  
-  **GPA:** 8.2 / 10  
-
-- **Class 12 (CBSE):** 88.2%  
-- **Class 10 (ICSE):** 90.5%
+- Contributed to defining **machine learning problem statements** for CodeVerse 2025 Hackathon
+- Collaborated with cross-functional teams on technical ideation and evaluation criteria
 
 ---
 
-## 📜 Certifications
+## Achievements
 
-- Data Analysis Program — *GeeksforGeeks*
-- Data Analytics Virtual Job Simulation — *Deloitte*
-- Built with Flask: Web Development for Beginners — *CodeChef*
-- Facial Expression Recognition using PyTorch — *Coursera*
-
----
-
-## 📫 Let’s Connect
-
-- 💼 LinkedIn: *sparsh-kapoor-sk*  
-- 💻 GitHub: **@SparshKapoor-CODER**
-- 📧 Email: sparsh312333@gmail.com
+### **Smart India Hackathon (SIH) 2025 — Team Leader**
+- Selected from **997 institute teams**
+- Shortlisted to **Top 45 teams nationally**
+- Led multidisciplinary team through ideation, faculty interviews, and prototype development
+- Demonstrated leadership, planning, and execution under tight timelines
 
 ---
 
-⭐ *Always learning. Always building. Always improving.*
+## Education
+
+**B.Tech — Computer Science & Engineering (AI & ML)**  
+VIT Bhopal University *(2024 – 2028)*  
+**CGPA:** 8.2 / 10
+
+- Class XII (CBSE): 88.2%
+- Class X (ICSE): 90.5%
+
+---
+
+## GitHub Statistics
+
+<img src="https://github-readme-stats.vercel.app/api?username=SparshKapoor-CODER&show_icons=true&theme=tokyonight&count_private=true" />
+
+---
+
+## Contact
+
+- **LinkedIn:** https://www.linkedin.com/in/sparsh-kapoor-sk  
+- **Email:** sparsh312333@gmail.com  
+- **LeetCode:** https://leetcode.com/sparsh312333/
+
+---
+
+*Actively seeking SDE / ML / Data internships and collaborative engineering opportunities.*
