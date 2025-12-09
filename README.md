@@ -89,11 +89,12 @@ VIT Bhopal University *(2024 – 2028)*
 
 ---
 
-## GitHub Statistics
+## 📊 GitHub Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=SparshKapoor-CODER&show_icons=true&theme=tokyonight&count_private=true" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SparshKapoor-CODER&show_icons=true&theme=tokyonight)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SparshKapoor-CODER&layout=compact&theme=tokyonight)
+
 
 ## Contact
 
